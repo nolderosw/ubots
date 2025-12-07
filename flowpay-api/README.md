@@ -24,3 +24,6 @@ A aplicação vai rodar na porta 3000.
 A documentação da API está disponível em: http://localhost:3000/api/docs
 
 Caso queira, tem um mini desenho da aplicação na pasta arch.
+
+
+<img width="1498" height="578" alt="Captura de Tela 2025-12-07 às 18 31 32" src="https://github.com/user-attachments/assets/8edb9639-18ad-4847-87ad-c9f0333829db" />
